@@ -1,0 +1,12 @@
+Package: ktheme
+Type: Package
+Title: Tweaks to cowplot themes
+Version: 0.1.0
+Author: Keating Reid
+Maintainer: Keating Reid <keating.reid@pm.me>
+Description: Minor aesthetic tweaks to cowplot themes, e.g. thinner grid lines.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+  cowplot
